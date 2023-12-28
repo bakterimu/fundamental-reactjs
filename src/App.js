@@ -6,10 +6,11 @@ import Itung2 from './components/Itung2';
 import Itung3 from './components/Itung3';
 import ProductList from './components/ParentChild/ProductList';
 import FlexboxLayout from './pages/FlexboxLayout';
+import GridLayout from './pages/GridLayout';
 
 function App() {
   return (
-    <FlexboxLayout/>
+    <MainLayout/>
   );
 }
 

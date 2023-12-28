@@ -1,11 +1,10 @@
 import React from 'react'
+import Headers from './layout/Headers'
 
 export default function MainLayout() {
   return (
     <div>
-      <h1>
-        gila lu ya
-      </h1>
+      <Headers></Headers>
     </div>
   )
 }
